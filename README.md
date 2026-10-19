@@ -5,5 +5,5 @@
 BAŞLA
 Kullanıcının "ad" ve "soyad" bilgilerini al
 Alınan "ad" ve "soyad" bilgilerini birleştirerek "Tam_ad" değişkenine at
-Alınan "Tam_ad" bilgisi ile kullanıcıya selamlama gönder
+Alınan "Tam_ad" bilgisi ile kullanıcıya selamlama mesajı gönder
 Bitir
